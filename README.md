@@ -1,4 +1,4 @@
-[![MasterHead] (https://imgur.com/a/2FOFWZo)]
+[![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif)]
 
 <h1 align="center">Hi 👋, I'm Hrishikesh Jadhav</h1>
 <h3 align="center">A passionate Developer, Ethical Hacker & Security Researcher.</h3>
