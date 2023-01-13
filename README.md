@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif)]
+![MasterHead](https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/blob/master/desktop-animation2.gif)
 
 <h1 align="center">Hi 👋, I'm Hrishikesh Jadhav</h1>
 <h3 align="center">A passionate Developer, Ethical Hacker & Security Researcher.</h3>
