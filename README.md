@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/meet_hrishi" target="blank"><img src="https://img.shields.io/twitter/follow/meet_hrishi?logo=twitter&style=for-the-badge" alt="meet_hrishi" /></a> </p>
 
-- 🔭 I’m currently working on [Full-Stack-Authentication-App](https://github.com/MeetHrishii/Full-Stack-Authentication-App.git)
+- 🔭 I’m currently working on [Windows privilege Escalation Tactics]
 
-- 🌱 I’m currently learning **Web3.0, Network Penetration Testing & DSA**
+- 🌱 I’m currently learning **Penetration Testing & Red Teaming** 
 
-- 👯 I’m looking to collaborate on **CTF & Bug Bounty**
+- 👯 I’m looking to collaborate on **CTF**
 
 - 📫 How to reach me **ContactHrishikeshJadhav@gmail.com**
 
