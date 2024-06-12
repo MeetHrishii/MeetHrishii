@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/blob/master/desktop-animation2.gif)
 
 <h1 align="center">Hi 👋, I'm Hrishikesh Jadhav</h1>
-<h3 align="center">A passionate Developer, Ethical Hacker & Security Researcher.</h3>
+<h3 align="center">Ethical Hacker & Security Researcher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meethrishii&label=Profile%20views&color=0e75b6&style=flat" alt="meethrishii" /> </p>
 
